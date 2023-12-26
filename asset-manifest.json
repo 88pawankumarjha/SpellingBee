@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/spellingbee/static/css/main.94078c07.css",
-    "main.js": "/spellingbee/static/js/main.43348189.js",
+    "main.css": "/spellingbee/static/css/main.d57a52c6.css",
+    "main.js": "/spellingbee/static/js/main.a403c448.js",
     "static/js/787.83883303.chunk.js": "/spellingbee/static/js/787.83883303.chunk.js",
     "index.html": "/spellingbee/index.html",
-    "main.94078c07.css.map": "/spellingbee/static/css/main.94078c07.css.map",
-    "main.43348189.js.map": "/spellingbee/static/js/main.43348189.js.map",
+    "main.d57a52c6.css.map": "/spellingbee/static/css/main.d57a52c6.css.map",
+    "main.a403c448.js.map": "/spellingbee/static/js/main.a403c448.js.map",
     "787.83883303.chunk.js.map": "/spellingbee/static/js/787.83883303.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.94078c07.css",
-    "static/js/main.43348189.js"
+    "static/css/main.d57a52c6.css",
+    "static/js/main.a403c448.js"
   ]
 }
